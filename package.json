@@ -1,3 +1,5 @@
+<process type>: <web>
+
 {
   "name": "node-example", 
   "version": "0.0.1",
