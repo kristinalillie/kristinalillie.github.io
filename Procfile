@@ -1,1 +1,2 @@
-web: node app.js
+web: node web.js
+<process type>: <web>
